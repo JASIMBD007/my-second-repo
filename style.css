@@ -1,6 +1,10 @@
 p{
-    text-align: center;
+    text-align: justify;
     color: brown;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
+}
+div{
+    text-align: center;
+    background-color: coral;
 }
